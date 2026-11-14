@@ -1,4 +1,4 @@
-# RootSweep (Beta v0.03)
+# RootSweep
 
 **When your `C:` drive is maxed out—even after you've uninstalled everything you can.**
 
